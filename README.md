@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+
+✨ I’m Ali Mehdizadeh : Developer, Gamer, Geek. ✨
 
 <!--
 **Aliac8888/Aliac8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
