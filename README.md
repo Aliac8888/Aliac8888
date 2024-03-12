@@ -6,7 +6,7 @@
  &nbsp;&nbsp;
 
 <p align="left">
-👋 Hello! I’m Ali, a passionate PHP/Laravel developer with a penchant for turning code into elegant solutions. 🚀
+👋 Hello! I’m Ali, a passionate developer with a penchant for turning code into elegant solutions. 🚀
 
 My Journey So Far:
 
