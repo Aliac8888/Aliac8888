@@ -13,10 +13,6 @@
 </p>
 
 <p align="left">
-📱 <strong>Flutter Development:</strong> My interest in mobile development led me to Flutter. Creating cross-platform mobile applications has become one of my main pursuits, allowing me to craft beautiful, responsive user experiences.
-</p>
-
-<p align="left">
 💼 <strong>Giltarah Company:</strong> My journey took a significant turn when I secured my first job at Giltarah. It transformed coding from a hobby into a fulfilling career.
 </p>
 
@@ -31,7 +27,7 @@
 </p>
 
 <p align="left">
-🌐 <strong>Tech Enthusiast:</strong> Beyond work, I always try to stay updated on industry trends, especially in the realms of Node.js and Flutter development.
+🌐 <strong>Tech Enthusiast:</strong> Beyond work, I always try to stay updated on industry trends, especially in the realms of mern stack and software development.
 </p>
 
 <p align="left">
@@ -63,7 +59,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,flutter,dart,js,html,css,git,bootstrap,mysql,mongodb,docker,vscode">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,express,html,css,git,tailwind,bootstrap,mysql,mongodb,docker,vscode,webstorm">
   </a>
 </p>
 
