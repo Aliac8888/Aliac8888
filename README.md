@@ -6,13 +6,11 @@
 👋 Hello! I’m Ali, a passionate developer with a penchant for turning code into elegant solutions. 🚀
 </p>
 
-<h4>A Little About Me:</h4>
+<h4>More About Me:</h4>
 
 <p align="left">
 🛠 <strong>Back-End Magic:</strong> Initially immersed in back-end development with PHP and frameworks like Laravel, my focus has now shifted towards Node.js, where I enjoy building scalable, efficient server-side applications.
 </p>
-
-<h4>More About Me:</h4>
 
 <p align="left">
 🤝 <strong>Problem Solver:</strong> I thrive on challenges. Whether it’s optimizing server performance, building scalable APIs, or creating smooth mobile interfaces, count me in!
